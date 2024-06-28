@@ -14,6 +14,7 @@ This repository contains the source code for the Magic 8 Ball app, which provide
 - **Xcode**: Ensure you have the latest version of Xcode installed on your Mac.
 
 ### Project Structure 📁
+```
 Magic 8 Ball/
 ├── Magic 8 Ball.xcodeproj
 ├── Magic 8 Ball/
@@ -30,7 +31,7 @@ Magic 8 Ball/
 │ └── LaunchScreen.storyboard
 ├── Info.plist
 └── README.md
-
+```
 ### ViewController Setup
 
 1. **Define an Array of Image Names**: Create an array to hold the names of your images.
