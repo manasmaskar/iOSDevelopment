@@ -12,7 +12,7 @@ Welcome to the iOS Development repository! This space is dedicated to documentin
   - 🔄 Randomization: Generating random content.
   - 🛠 Xcode Basics: Navigating and utilizing Xcode effectively.
   - 🖼 Asset Catalogs: Managing image assets within Xcode.
-- **Repository**: [Magic 8 Ball App](https://github.com/yourusername/magic-8-ball-app)
+- **Repository**: [Magic 8 Ball App](https://github.com/manasmaskar/iOSDevelopment/tree/main/Magic-8-Ball)
 
 ## What I Learn from Each Project 📘
 
