@@ -9,7 +9,7 @@ Each project in this repository helps me to:
 - **Apply Theoretical Knowledge**: Put theoretical knowledge into practice through hands-on projects.
 - **Problem-Solve**: Develop problem-solving skills by tackling challenges and debugging issues.
 - **Improve Code Quality**: Enhance my coding skills and learn best practices for writing clean, maintainable code.
-- **Build a Portfolio**: Create a portfolio of projects that showcases my development skills and progress. [Projects](#projects)
+- **Build a Portfolio**: Create a portfolio of projects that showcases my development skills and progress. 
 
 ## Projects and Learning Goals 🎯
 
@@ -20,7 +20,7 @@ I plan to continue adding more projects to this repository, each focusing on dif
 - **SwiftUI**: Exploring SwiftUI for building declarative interfaces.
 - **App Performance**: Optimizing apps for better performance and user experience.
 
-## Projects 🚀 {#projects}
+## Projects 🚀 
 
 ### 1. Magic 8 Ball App 🎱
 - **Description**: A fun app that provides random answers to your questions, inspired by the classic Magic 8 Ball toy.
